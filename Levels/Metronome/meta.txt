@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "song_name": "100 BPM Metronome",
+    "artist": "DrumsetFundamentals",
+    "mapper": "Lua"
+  }
+}

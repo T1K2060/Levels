@@ -1,0 +1,16 @@
+[
+  { "time": 0, "lane": 0 },
+  { "time": 75, "lane": 1 },
+  { "time": 150, "lane": 2 },
+  { "time": 225, "lane": 3 },
+
+  { "time": 300, "lane": 0 },
+  { "time": 375, "lane": 1 },
+  { "time": 450, "lane": 2 },
+  { "time": 525, "lane": 3 },
+
+  { "time": 600, "lane": 1 },
+  { "time": 675, "lane": 1 },
+  { "time": 750, "lane": 1 },
+  { "time": 825, "lane": 1 }
+]
